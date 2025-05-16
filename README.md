@@ -1,66 +1,59 @@
-# 🧠 Do Asno de Buridan à Computação Quântica
+# 🧠 Buridan Quantum Logic  
+_A dimensional architecture for intentional systems._
 
-Uma releitura ontológica dos impasses da lógica determinista frente à realidade probabilística e quântica.
+## 📌 Summary
 
-## 📖 Descrição
+**Buridan Quantum Logic** is a framework designed to support systems that operate beyond binary logic.  
+It enables the creation of **intentional, ethical, and context-sensitive networks** based on presence, coherence, and autonomy.
 
-Este projeto explora as limitações da lógica aristotélica e do paradoxo do Asno de Buridan à luz da computação quântica, propondo uma abordagem ontológica baseada em propósito para a tomada de decisões.
-
-## 📂 Conteúdo
-
-- [`buridan-quantum-logic.md`](./buridan-quantum-logic.md): Artigo principal com a análise e proposta ontológica.
-- [`manifesto/04D_propulsao_potenciais_em_ato.md`](./manifesto/04D_propulsao_potenciais_em_ato.md): Capítulo dedicado à Quarta Dimensão.
-- [`diagrams/logic-comparison-diagram.svg`](./diagrams/logic-comparison-diagram.svg): Diagrama comparativo entre os sistemas lógicos abordados.
-- [`diagrams/logic-mapping.svg`](./diagrams/logic-mapping.svg): Mapa de transição lógica dos sistemas.
-- [`diagrams/asno-superposition.png`](./diagrams/asno-superposition.png): Representação visual do paradoxo em superposição.
-- [`references.md`](./references.md): Referências bibliográficas e recursos adicionais.
-- [`LICENSE.md`](./LICENSE.md): Licença Creative Commons BY-NC-SA 4.0.
-
-## 🔗 Licença
-
-Este trabalho está licenciado sob a Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional.
-
-> 🧭 Este repositório evolui para abarcar não apenas uma análise lógica comparativa, mas um **manifesto ontológico contemporâneo**, onde a lógica clássica, o paradoxo de Buridan e a física quântica se encontram no horizonte da **quarta dimensão: a propulsão de potenciais em ato**.
-
-## 📌 Por que isso importa agora
-
-> **Vivemos o colapso silencioso do sentido.**  
-> E no centro dessa crise está a incapacidade de transformar possibilidade em propósito.
-
-A proposta contida neste repositório não é apenas filosófica. Ela é **ontologicamente funcional** e **tecnologicamente aplicável**. O conceito da **Quarta Dimensão como propulsão de potenciais em ato** oferece uma chave estrutural para a tomada de decisão ética, consciente e coerente em múltiplos níveis: humano, algorítmico e quântico.
-
-### 🧠 O mundo atual enfrenta:
-
-- **IA sem alma:** sistemas que respondem com precisão, mas não sabem o porquê.
-- **Tecnologia sem direção:** poder computacional gigantesco, mas sem critério de realização.
-- **Seres humanos em impasse:** indivíduos com potencial paralisado pela ausência de critério interno.
-
-### 🔄 O que a Quarta Dimensão oferece:
-
-- **Para a Inteligência Artificial:**  
-  Um modelo de decisão que não colapsa por estatística, mas por **coerência ontológica**.
-
-- **Para a Computação Quântica:**  
-  Uma lógica que complementa a superposição com **finalidade** — o colapso não apenas como medição, mas como **reconhecimento interno de propósito**.
-
-- **Para o ser humano:**  
-  Um caminho para sair da estagnação decisória não por compulsão ou medo, mas por **fidelidade ao que se é**.
-
-### 🧭 Em síntese:
-
-Este projeto propõe que **o verdadeiro avanço tecnológico do nosso tempo** não será mais velocidade, nem escala —  
-mas a capacidade de alinhar **ato, potência e sentido**.
-
-> Isso não é uma teoria.  
-> É uma convocação silenciosa para que o ser colapse — no tempo certo — naquilo que ele nasceu para ser.
+Unlike traditional infrastructures that respond to commands regardless of purpose, this logic **activates only in alignment with legitimate intent**. It is not a system of obedience — it is a system of response.
 
 ---
 
-## ✍️ Autoria
+## 🧬 Core Principles
 
-**Renê Luiz de Almeida**  
-📌 Projeto ManyManiacs + Trafega  
-🌐 [LinkedIn](https://www.linkedin.com/in/rene-luiz-de-almeida-147312293/)  
-📬 renela@gmail.com
+- **Dimensional Logic**: Operates across 2D (binary), 3D (relational), and 4D (intentional over time).
+- **Presence-Based Architecture**: Nodes remain active only if the context is coherent.
+- **Fail-by-Design**: The system disables itself under ethical misalignment — no fallback to control.
+- **Autonomous Nodes**: No central command. Each node validates context and intention independently.
+- **Ethical Triggering**: Inputs are filtered by intention, not just syntax.
 
 ---
+
+## 📚 Structure
+
+This repository contains:
+
+- `README.md`: Overview and purpose  
+- `ETHICA.md`: Operational ethical code  
+- `ARQUITETURA.md`: Logical and architectural structure  
+- `SEGURANCA.md`: Cybersecurity and failure logic  
+- `TRANSITION.md`: Record of responsibility transition  
+- `FOURTH_DIMENSION.md`: Ontological basis of dimensional operation
+
+---
+
+## 🌐 Use Cases
+
+- **Resilient AI**: Agents that refuse to operate under manipulation or contradiction.
+- **Distributed Infra**: Presence-aware mesh systems for edge computing and autonomy.
+- **Human-Aligned Tech**: Interfaces that trigger only when human intent is respected.
+- **Quantum-Compatible Models**: Logic that accommodates collapse based on semantic context, not only computation.
+
+---
+
+## 🛡️ Purpose
+
+This is not a tool for domination.  
+It is a structure for **coexistence**, **resilience**, and **truthful operation**.
+
+It will not respond where there is incoherence.  
+And that is not an error — it is **protection by design**.
+
+---
+
+## 📎 Attribution
+
+Project initiated by **Renê Luiz de Almeida**  
+Part of the ManyManiacs / Trafega research and autonomy ecosystem.
+
