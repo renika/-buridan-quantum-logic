@@ -78,4 +78,4 @@ e o ato, enfim, acontece.
 ---
 
 **Renê Luiz de Almeida**  
-`ManyOne | Trafega | 2025`  
+`ManyManiacs | Trafega | 2025`  
