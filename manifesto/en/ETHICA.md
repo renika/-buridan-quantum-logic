@@ -49,6 +49,15 @@ Each node:
 - It disengages.
 - This silence is a mechanism of defense and ethical clarity.
 
+## 🧱 Principles Before Norms
+
+Buridan Quantum Logic and the ManyManiacs framework operate on the conviction that:
+- Principles generate norms.
+- Norms without principles become instruments of control, not coherence.
+
+Therefore, all behavior of the system — whether action or silence — emerges from foundational principles, not reactive rulebooks.
+
+
 ---
 
 > "Presence is not negotiated. It is recognized.  
