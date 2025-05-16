@@ -50,3 +50,22 @@ mas a capacidade de alinhar **ato, potência e sentido**.
 
 > Isso não é uma teoria.  
 > É uma convocação silenciosa para que o ser colapse — no tempo certo — naquilo que ele nasceu para ser.
+
+
+- [`buridan-quantum-logic.md`](./buridan-quantum-logic.md): Artigo principal com a análise e proposta ontológica.
+- [`manifesto/04D_propulsao_potenciais_em_ato.md`](./manifesto/04D_propulsao_potenciais_em_ato.md): Capítulo dedicado à Quarta Dimensão.
+- [`diagrams/logic-comparison-diagram.svg`](./diagrams/logic-comparison-diagram.svg): Diagrama comparativo entre os sistemas lógicos abordados.
+- [`references.md`](./references.md): Referências bibliográficas e recursos adicionais.
+
+
+
+---
+
+## ✍️ Autoria
+
+**Renê Luiz de Almeida**  
+📌 Projeto ManyOne + Trafega  
+🌐 [LinkedIn](https://www.linkedin.com/in/rene-luiz-de-almeida-147312293/)  
+📬 renela@gmail.com
+
+---
