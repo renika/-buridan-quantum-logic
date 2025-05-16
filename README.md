@@ -16,3 +16,5 @@ Este projeto explora as limitações da lógica aristotélica e do paradoxo do A
 ## 🔗 Licença
 
 Este trabalho está licenciado sob a Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional.
+
+> 🧭 Este repositório evolui para abarcar não apenas uma análise lógica comparativa, mas um **manifesto ontológico contemporâneo**, onde a lógica clássica, o paradoxo de Buridan e a física quântica se encontram no horizonte da **quarta dimensão: a propulsão de potenciais em ato**.
