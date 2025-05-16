@@ -1,0 +1,41 @@
+# .manifesto_hash  
+Buridan Quantum Logic  
+Registry of Foundational Files and Ethical Commitments
+
+📅 Date of Finalization: 2025-05-16  
+👤 Author: Renê Luiz de Almeida  
+📁 Project Root: /buridan-quantum-logic
+
+---
+
+## ✅ Registered Files
+
+- [x] README.md — Project Overview (EN)
+- [x] README-pt.md — Project Overview (PT)
+- [x] ETHICA.md — Ethical Code
+- [x] ARQUITETURA.md — Logical and Operational Architecture (PT)
+- [x] ARCHITECTURE.md — Logical and Operational Architecture (EN)
+- [x] SEGURANCA.md — Security Principles (PT)
+- [x] SECURITY.md — Security Principles (EN)
+- [x] TRANSITION.md — Responsibility Transfer Record (EN)
+- [x] FOURTH_DIMENSION.md — Ontological Reference of Dimensional Systems
+
+---
+
+## 🔐 Purpose of this file
+
+This file serves as a reference point and commitment to the following principles:
+
+1. **Integrity over popularity**  
+2. **Presence over performance**  
+3. **Inoperability under manipulation**  
+4. **Decentralized coherence over centralized control**
+
+---
+
+## 🧩 Hashing Suggestion (Manual or CI)
+
+To validate the integrity of this system:
+
+```bash
+sha256sum README.md ETHICA.md ARQUITETURA.md ARCHITECTURE.md SEGURANCA.md SECURITY.md TRANSITION.md FOURTH_DIMENSION.md > buridan_manifest.checksum
