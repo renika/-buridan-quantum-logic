@@ -49,7 +49,7 @@ Each node:
 - It disengages.
 - This silence is a mechanism of defense and ethical clarity.
 
-## 🧱 Principles Before Norms
+## 8. Principles Before Norms
 
 Buridan Quantum Logic and the ManyManiacs framework operate on the conviction that:
 - Principles generate norms.
