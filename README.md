@@ -64,7 +64,7 @@ mas a capacidade de alinhar **ato, potência e sentido**.
 ## ✍️ Autoria
 
 **Renê Luiz de Almeida**  
-📌 Projeto ManyOne + Trafega  
+📌 Projeto ManyManiacs + Trafega  
 🌐 [LinkedIn](https://www.linkedin.com/in/rene-luiz-de-almeida-147312293/)  
 📬 renela@gmail.com
 
