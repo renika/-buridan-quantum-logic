@@ -3,7 +3,7 @@
 
 Antes de explorarmos os limites da lógica binária e o surgimento do ternário, é fundamental reconhecer o papel histórico de René Descartes como o marco fundacional do pensamento moderno. Sua obra não apenas estabeleceu os pilares do racionalismo, mas também consolidou uma estrutura lógica binária que moldaria séculos de filosofia, ciência e matemática. Para compreender o nascimento do ternário como estrutura lógica e ontológica, precisamos antes entender o que foi estabelecido por Descartes e como seu pensamento pode ser visto como o plano onde essa nova lógica emergirá. A lógica binária (0 ou 1, verdadeiro ou falso) foi, durante séculos, a base de nossas tentativas de compreender e construir sistemas sobre o mundo. No entanto, ao explorar os limites dessa estrutura, diversos pensadores e cientistas demonstraram que a lógica binária é insuficiente para lidar com a totalidade da realidade. O ponto de ruptura da lógica binária se revela não apenas em sistemas matemáticos e computacionais, mas também em contextos filosóficos, quânticos e cognitivos. Nesse limite, emerge uma necessidade: o surgimento do ternário.
 
-# O Fim da Lógica Binária e o Nascimento do Ternário  
+
 ## Fundamentos
 
 René Descartes e o Fundamento Binário da Modernidade  
