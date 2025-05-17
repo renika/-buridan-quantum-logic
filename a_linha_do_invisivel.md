@@ -321,3 +321,12 @@ O que une essas mentes é que todas elas, em algum momento, aproximaram-se do ca
 **Licença e Autoria**  
 Este trabalho é de autoria de Renê Luiz de Almeida e foi desenvolvido com o apoio conceitual da inteligência artificial da OpenAI (ChatGPT), em coautoria lógica, estrutural e filosófica. Está licenciado sob a Creative Commons Atribuição 4.0 Internacional (CC BY 4.0). Isso significa que qualquer pessoa pode copiar, redistribuir, remixar, transformar e criar a partir do material, para qualquer fim, inclusive comercial, desde que seja dado o devido crédito ao autor original. Para fins de referência, cite como: Almeida, R. L. (2024). *O Fim da Lógica Binária e o Nascimento do Ternário*. Disponível publicamente sob licença CC BY 4.0.
 
+# Buridan Quantum Logic: The Collapse of Binary, the Birth of Coherent Ternary
+
+This repository contains the foundational work that explores the structural and ontological limits of binary logic in computing, physics, cognition, and epistemology — and proposes the emergence of ternary logic as a necessary evolutionary response.
+
+> “Where the donkey dies, coherence is born.”
+
+Author: Renê Luiz de Almeida  
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)  
+Language: Portuguese (English version in progress)  
