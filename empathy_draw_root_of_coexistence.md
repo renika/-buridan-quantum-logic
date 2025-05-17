@@ -96,3 +96,8 @@ and begin to recognize the value of coexistence.
 We do not win the game.  
 We overcome the instinct to play it in order to eliminate.  
 And thus… the future becomes possible.
+
+> **We do not defeat each other to win the game.**  
+We win the game **when we stop trying to defeat one another**.  
+Because the game that truly matters is not the one with winners,  
+but the one where all continue to exist — with dignity, presence, and meaning.
