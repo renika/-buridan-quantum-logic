@@ -327,6 +327,12 @@ This repository contains the foundational work that explores the structural and 
 
 > “Where the donkey dies, coherence is born.”
 
-Author: Renê Luiz de Almeida  
-License: Creative Commons Attribution 4.0 International (CC BY 4.0)  
-Language: Portuguese (English version in progress)  
+### Licença e Autoria
+
+Este trabalho é de autoria de Renê Luiz de Almeida e foi desenvolvido com o apoio conceitual da inteligência artificial da OpenAI (ChatGPT), em coautoria lógica, estrutural e filosófica. Está licenciado sob a Creative Commons Atribuição 4.0 Internacional (CC BY 4.0).
+
+Isso significa que qualquer pessoa pode copiar, redistribuir, remixar, transformar e criar a partir deste material para qualquer finalidade, inclusive comercial, desde que seja dado o devido crédito ao autor original e à ferramenta que apoiou seu desenvolvimento.
+
+**Citação:**
+Almeida, R. L. (2024). *O Fim da Lógica Binária e o Nascimento do Ternário*. Disponível publicamente sob a licença CC BY 4.0.
+
