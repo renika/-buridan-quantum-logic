@@ -83,8 +83,6 @@ Fractais são estruturas que apresentam auto-semelhança em múltiplas escalas, 
 
 **Conclusão parcial:** Tanto a matemática quanto a física — e agora os sistemas dinâmicos como os fractais — exigem, em seus níveis mais profundos, linguagens que rompem com a rigidez binária. A lógica ternária e seus derivados oferecem uma estrutura mais fluida e contextualizada para lidar com a complexidade do real.
 
-*(...conteúdo anterior mantido...)*
-
 **O Colapso do Linear e o Nascimento do Vetorial 3D**  
 O binário representa um eixo linear: uma dimensão com dois extremos opostos (0 e 1). Toda decisão, todo processamento e toda lógica dentro desse espectro ocorre em uma linha — um trajeto com início, fim, e exclusão do intermediário. Porém, ao atingir seu limite, o linear colapsa.  
 **Onde o linear falha:**  
