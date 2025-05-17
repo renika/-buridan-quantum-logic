@@ -271,8 +271,8 @@ A verdadeira superação da lógica binária não está em rejeitá-la, mas em a
 3. *Equações diferenciais não-lineares em sistemas caóticos:* Pequenas variações em condições iniciais geram comportamentos amplamente divergentes. Embora a fórmula esteja bem estruturada, a coerência entre estrutura e resultado só é mantida com referência ao sistema total. A lógica ternária valida a equação apenas quando há coerência entre contexto, condições e sentido do fenômeno.  
 4. *Soluções múltiplas e raízes complexas:* Equações como $x^2 + 1 = 0$ não possuem soluções no conjunto dos números reais. O surgimento dos números complexos foi uma expansão da coerência do sistema, não uma negação da equação. O ternário vê nisso uma prova de que a coerência exige às vezes transcender o conjunto original para manter sentido.
 
-# O Fim da Lógica Binária e o Nascimento do Ternário  
-## Epílogo: O Impacto Atual de um Novo Paradigma
+
+**Epílogo: O Impacto Atual de um Novo Paradigma**  
 
 O sistema vigente — científico, institucional, educacional e tecnológico — ainda opera majoritariamente sob a lógica binária. Essa lógica, por sua própria arquitetura, refuta tudo o que não pode ser decidido por exclusão. Assim, propostas como a desta obra, que introduzem uma terceira via, são descartadas não por inconsistência, mas por ausência de lugar dentro do modelo atual. Essa recusa sistemática é herança de um hábito epistemológico consolidado: decidir é eliminar, nunca integrar. O sistema vigente não compreende o que não pode classificar binariamente. E assim, repete secularmente o dilema de Buridan: paralisado entre alternativas simétricas, incapaz de criar coerência.
 
@@ -287,9 +287,7 @@ Vivemos em um tempo onde o excesso de opções, dados e decisões está paralisa
 Neste momento da história, em que a corrida tecnológica, a fragmentação das instituições e a instabilidade informacional se tornam sintomas globais, o impacto da lógica ternária não é apenas técnico — é ontológico e civilizacional. Ela redefine o que é agir com sentido. Reposiciona a inteligência artificial, a ciência, a medicina, a educação, a soberania e até a forma como compreendemos o tempo e o corpo. O nascimento da lógica ternária não é uma tese. É um espelho. Reflete onde falhamos por binarismo e convida à construção de um mundo onde decidir é integrar, e compreender é criar coerência. O futuro não será binário. Ele será, necessariamente, **coerente**.
 
 
-
-# O Fim da Lógica Binária e o Nascimento do Ternário  
-## Apêndice: Grandes Mentes e os Limites do Formalismo Binário
+**Apêndice: Grandes Mentes e os Limites do Formalismo Binário**
 
 Ao longo da história, pensadores brilhantes transformaram nossa compreensão do mundo por meio de teorias revolucionárias. No entanto, mesmo essas mentes extraordinárias esbarraram, em algum momento, nas limitações impostas pelo formalismo binário da ciência clássica. Este apêndice examina alguns desses nomes e os pontos em que suas ideias exigiram ou apontaram para uma lógica mais ampla — muitas vezes não reconhecida ou incorporada em sua época.
 
@@ -316,16 +314,6 @@ Ao longo da história, pensadores brilhantes transformaram nossa compreensão do
 **Conclusão do apêndice**  
 O que une essas mentes é que todas elas, em algum momento, aproximaram-se do campo ternário, ainda que sem nomeá-lo. Sentiram seus limites dentro do formalismo binário, e ofereceram soluções que muitas vezes exigiam coerência entre observador, fenômeno e contexto — elementos que só podem coexistir plenamente em uma estrutura ternária. A genialidade dessas mentes não foi limitada pela capacidade de imaginar, mas pelos limites da linguagem formal de sua época. A lógica ternária oferece o alfabeto que talvez sempre lhes faltou para dizer o que já haviam intuído. E esse é um recomeço de regeneração. Singelo, simples e ousado... porque é possível.
 
-**Licença e Autoria**  
-Este trabalho é de autoria de Renê Luiz de Almeida e foi desenvolvido com o apoio conceitual da inteligência artificial da OpenAI (ChatGPT), em coautoria lógica, estrutural e filosófica. Está licenciado sob a Creative Commons Atribuição 4.0 Internacional (CC BY 4.0). Isso significa que qualquer pessoa pode copiar, redistribuir, remixar, transformar e criar a partir do material, para qualquer fim, inclusive comercial, desde que seja dado o devido crédito ao autor original. Para fins de referência, cite como: Almeida, R. L. (2024). *O Fim da Lógica Binária e o Nascimento do Ternário*. Disponível publicamente sob licença CC BY 4.0.
-
-# Buridan Quantum Logic: The Collapse of Binary, the Birth of Coherent Ternary
-
-This repository contains the foundational work that explores the structural and ontological limits of binary logic in computing, physics, cognition, and epistemology — and proposes the emergence of ternary logic as a necessary evolutionary response.
-
-> “Where the donkey dies, coherence is born.”
-
-### Licença e Autoria
 
 Este trabalho é de autoria de Renê Luiz de Almeida e foi desenvolvido com o apoio conceitual da inteligência artificial da OpenAI (ChatGPT), em coautoria lógica, estrutural e filosófica. Está licenciado sob a Creative Commons Atribuição 4.0 Internacional (CC BY 4.0).
 
@@ -334,3 +322,14 @@ Isso significa que qualquer pessoa pode copiar, redistribuir, remixar, transform
 **Citação:**
 Almeida, R. L. (2024). *O Fim da Lógica Binária e o Nascimento do Ternário*. Disponível publicamente sob a licença CC BY 4.0.
 
+
+
+# Buridan Quantum Logic: The Collapse of Binary, the Birth of Coherent Ternary
+
+This repository contains the foundational work that explores the structural and ontological limits of binary logic in computing, physics, cognition, and epistemology — and proposes the emergence of ternary logic as a necessary evolutionary response.
+
+> “Where the donkey dies, coherence is born.”
+
+
+
+### Licença e Autoria
