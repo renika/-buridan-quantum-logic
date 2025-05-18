@@ -27,6 +27,13 @@ PresenceWare emerges from the need to **restore the axis of digital action**. It
 
 > "It's not about processing faster. It's about processing what matters, with meaning."
 
+**Almeida's Principle (1.1)**
+
+> "Do not patch the problem with the cause.
+> Build a system that never needed it in the first place."
+
+This principle affirms that true technological solutions must not be iterations of the problems they claim to fix. Instead, they must emerge from coherence, not from reaction.
+
 ---
 
 **Expected Impact**
