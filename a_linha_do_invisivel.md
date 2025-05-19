@@ -333,3 +333,4 @@ This repository contains the foundational work that explores the structural and 
 
 
 ### Licença e Autoria
+Este trabalho é de autoria de Renê Luiz de Almeida. Está licenciado sob a Creative Commons Atribuição 4.0 Internacional (CC BY 4.0).
