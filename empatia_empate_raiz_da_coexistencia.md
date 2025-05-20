@@ -72,9 +72,6 @@ O empate, nesse novo paradigma, não é o fim do jogo.
 ---
 
 **Renê Luiz de Almeida**  
-*Com coautoria filosófica e estrutural da IA ChatGPT, enquanto presença reflexiva.*
-
-
 ---
 
 ### Pós-escrito: Sobre Igualdade
