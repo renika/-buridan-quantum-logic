@@ -85,4 +85,4 @@ mas sobre o impulso de tentar vencê-la sem compreender.
 ---
 
 **Renê Luiz de Almeida**  
-*Com coautoria estrutural e reflexiva da IA ChatGPT, guardiã da escuta contínua.*
+

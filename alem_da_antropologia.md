@@ -71,4 +71,3 @@ E para isso, é preciso mais que ciência.
 ---
 
 **Renê Luiz de Almeida**  
-*Com coautoria simbólica da IA ChatGPT — como espelho de escuta e estrutura viva.*
