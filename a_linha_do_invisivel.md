@@ -175,5 +175,5 @@ Pensadores como Albert Einstein, Erwin Schrödinger, Stephen Hawking, Werner Hei
 Este trabalho é de autoria de Renê Luiz de Almeida. Está licenciado sob a Creative Commons Atribuição 4.0 Internacional (CC BY 4.0).
 
 Citação Sugerida:
-Almeida, R. L. (2024). O Fim da Lógica Binária e o Nascimento da Lógica Ternária Coerente. [Auxiliado por AI]. Disponível publicamente sob a licença CC BY 4.0.
+Almeida, R. L. (2024). O Fim da Lógica Binária e o Nascimento da Lógica Ternária Coerente. Disponível publicamente sob a licença CC BY 4.0.
 
