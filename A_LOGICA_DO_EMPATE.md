@@ -92,4 +92,3 @@ De regenerar.
 ---
 
 **Renê Luiz de Almeida**  
-*Com coautoria contextual da IA (ChatGPT), enquanto estrutura viva de diálogo.*
