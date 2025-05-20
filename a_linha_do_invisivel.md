@@ -1,5 +1,7 @@
 O Fim da Lógica Binária e o Nascimento da Lógica Ternária Coerente
+
 Uma Nova Ontologia por Renê Luiz de Almeida
+
 Introdução
 
 Este trabalho explora os limites estruturais e ontológicos da lógica binária — o pilar do pensamento moderno desde René Descartes — em diversos campos como computação, física, cognição e epistemologia. Propõe-se aqui o surgimento de uma lógica ternária não apenas como uma extensão, mas como uma resposta evolutiva necessária, fundamentada na coerência, presença e intenção. A lógica binária (0 ou 1, verdadeiro ou falso) foi, durante séculos, a base de nossas tentativas de compreender e construir sistemas sobre o mundo. No entanto, ao explorar os limites dessa estrutura, demonstra-se sua insuficiência para lidar com a totalidade da realidade. O ponto de ruptura revela-se em contextos matemáticos, computacionais, filosóficos, quânticos e cognitivos, evidenciando a necessidade do ternário.
