@@ -1,3 +1,5 @@
+ESTE É UM TRABALHO EM DESENVOLVIMENTO
+
 # 🧠 Buridan Quantum Logic  
 _Uma arquitetura dimensional para sistemas intencionais._
 
