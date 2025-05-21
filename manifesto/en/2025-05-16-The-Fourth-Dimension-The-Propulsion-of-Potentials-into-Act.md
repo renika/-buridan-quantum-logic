@@ -137,7 +137,7 @@ A **Quarta Dimensão** é o **eixo de propósito** que colapsa potenciais em ato
 
 **Links**:  
 - Artigo Base: [A Quarta Dimensão](https://github.com/renika/buridan-quantum-logic/blob/main/linkedin/articles/2025-05-16-The-Fourth-Dimension-The-Propulsion-of-Potentials-into-Act.md)  
-- Perfil no X: [ManyManiacsBR)]([https://x.com/renika](https://x.com/ManyManiacsBR))  
+- Perfil no X: [ManyManiacsBR](https://x.com/renika](https://x.com/ManyManiacsBR))  
 
 **Renê Luiz de Almeida**  
 `ManyManiacs | Trafega | 2025`  
